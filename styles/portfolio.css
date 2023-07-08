@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+}
+
 /* nav related style */
 nav {
     display: flex;
